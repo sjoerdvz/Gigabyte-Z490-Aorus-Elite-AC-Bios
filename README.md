@@ -17,3 +17,6 @@ flash.exe bios.bin / X
 
 wailt till finish and reboot thats it 
 set now your bios settings as normal 
+
+dont worry about bricking your computer its a stock bios. only removed all logo,s 
+when bricked you can easy recover using Qflash onboard 
